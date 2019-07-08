@@ -71,7 +71,7 @@ Review some of the common tips and suggestions [here](https://github.com/openshi
 Since OpenShift V3 does not provide a git repository out of the box, you can configure your github repository to make a webhook call whenever you push your code.
 
 1. From the console navigate to your project.  
-2. Click on Browse > Builds  
+2. Click on Browse > Builds-thiyagu-ex280  
 3. From the view for your Build click on the link to display your GitHub webhook and copy the url.  
 4. Navigate to your repository on GitHub and click on repository settings > webhooks  
 5. Paste your copied webhook url provided by OpenShift
